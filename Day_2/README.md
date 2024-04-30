@@ -21,3 +21,7 @@ In a JavaScript-based backend structure, the "src" directory typically contains 
 	- Routes
 	- Middlewares
 	- Utils
+
+
+
+<img src="[https://github.com/akhileshpandey2511/25-Days-Backend-Challange/blob/main/Day_2/mmmmm.jpg]" width="700">
