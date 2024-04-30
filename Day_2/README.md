@@ -22,8 +22,6 @@ In a JavaScript-based backend structure, the "src" directory typically contains 
 	- Middlewares
 	- Utils
 
-
+Link for Express: 
 <img src="[[https://github.com/akhileshpandey2511/25-Days-Backend-Challange/blob/main/Day_2/mmmmm.jpg](https://res.cloudinary.com/practicaldev/image/fetch/s--8OYPnj4r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1e47mbnot6u9kx2wls1y.png
 )]" width="700">
-
-https://res.cloudinary.com/practicaldev/image/fetch/s--8OYPnj4r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1e47mbnot6u9kx2wls1y.png
