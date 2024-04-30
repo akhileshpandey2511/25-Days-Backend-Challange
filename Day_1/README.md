@@ -14,7 +14,7 @@ JavaScript runtime environments like Node.js, Deno, and Babel provide platforms 
 
 - In a JavaScript-based backend structure, the "src" directory typically contains essential files for the application. "index" or "main" serves as the entry point, managing database connections and initializing the application. The "APP" file configures middleware like authentication, handles cookies, and sets up routes. "constants" houses enums and constants, such as database names or error codes, enhancing maintainability and readability. This modular setup fosters organization and scalability, allowing developers to easily extend functionality or modify configurations without disrupting the core architecture.
 
-	index or main(DB connects)		APP(config,cookie)		constants(enums,DB-name)
+	index or main(DB connects)	,	APP(config,cookie)	,	constants(enums,DB-name)
 	- DB
 	- Models
 	- Controllers
