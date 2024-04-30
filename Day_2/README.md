@@ -23,5 +23,5 @@ In a JavaScript-based backend structure, the "src" directory typically contains 
 	- Utils
 
 
-data
 <img src="[https://github.com/akhileshpandey2511/25-Days-Backend-Challange/blob/main/Day_2/mmmmm.jpg]" width="700">
+<img src="https://k21academy.com/wp-content/uploads/2021/05/RWD_Shared_Responsibility_Graphics_V0-1024x576.webp" width="700">
