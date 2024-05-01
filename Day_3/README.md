@@ -104,7 +104,7 @@ There are Two ways to use Packages in javascript.
 
   Overall, proxies are versatile tools with various uses in networking, security, and web development, providing flexibility, anonymity, and performance improvements for users and developers alike.
 
-
-
-
-
+      server:{
+        proxy:{
+          '/api':'http://localhost:3000'
+              }
