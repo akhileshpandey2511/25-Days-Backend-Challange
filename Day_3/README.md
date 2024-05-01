@@ -107,4 +107,5 @@ There are Two ways to use Packages in javascript.
       server:{
         proxy:{
           '/api':'http://localhost:3000'
-              }
+          }
+        }
