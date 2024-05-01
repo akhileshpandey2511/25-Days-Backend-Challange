@@ -15,3 +15,8 @@ There are Two ways to use Packages in javascript.
 - Install Vite: You can install Vite globally using npm (Node Package Manager) by running the following command in your terminal or command prompt:
 
         npm install -g vite
+- Create a new Vite project: Once Vite is installed, you can create a new project by running the following commands:
+
+        mkdir my-vite-app
+        cd my-vite-app
+        vite
