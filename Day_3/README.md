@@ -36,3 +36,7 @@ There are Two ways to use Packages in javascript.
 - Serve the built application: You can serve the built application locally using a tool like serve. Install it globally using npm:
 
         npm install -g serve
+  then navigate to the dist directory and run:
+
+        serve -s
+  This will serve your built application at http://localhost:5000 by default.
