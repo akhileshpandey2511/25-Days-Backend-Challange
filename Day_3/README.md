@@ -22,3 +22,17 @@ There are Two ways to use Packages in javascript.
         vite
     This will prompt you to choose a project template. You can choose from various options like Vue, React, Preact, or Vanilla (plain JavaScript).
 - Install dependencies: After choosing the template and generating the project, navigate into the project directory and install dependencies using npm or yarn:
+
+        cd my-vite-app
+        npm install
+- Run the development server: Once the dependencies are installed, you can start the development server by running:
+
+        npm run dev
+  This will start the development server, and you can access your web application at http://localhost:3000 by default.
+- Build your application: When you're ready to build your application for production, you can run:
+
+        npm run build
+    This will generate a production-ready build of your application in the dist directory.
+- Serve the built application: You can serve the built application locally using a tool like serve. Install it globally using npm:
+
+        npm install -g serve
