@@ -20,3 +20,5 @@ There are Two ways to use Packages in javascript.
         mkdir my-vite-app
         cd my-vite-app
         vite
+    This will prompt you to choose a project template. You can choose from various options like Vue, React, Preact, or Vanilla (plain JavaScript).
+- Install dependencies: After choosing the template and generating the project, navigate into the project directory and install dependencies using npm or yarn:
