@@ -1,6 +1,4 @@
-## Day_5: Data Modelling for Backend with Mongoose
-# Data Modelling for Backend with Mongoose
-
+# Day_5: Data Modelling for Backend with Mongoose
 This repository contains code examples and resources for understanding data modelling for backend applications using Mongoose, an elegant MongoDB object modeling tool designed to work in an asynchronous environment.
 
 ## Overview
