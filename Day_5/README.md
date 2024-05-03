@@ -76,24 +76,24 @@ To create a schema using Mongoose in your Node.js application, follow these step
 
 - Modify your schema definition to include fields for "createdBy" and "modifiedBy". These fields can be of type ObjectId to reference user documents or any other identifier that uniquely identifies users in your system.
 
-                  const mongoose = require('mongoose');
-                  const Schema = mongoose.Schema;
-                  
-                  const yourSchema = new Schema({
-                      // Other fields in your schema
-                      field1: String,
-                      field2: Number,
-                      // "createdBy" field
-                      createdBy: {
-                          type: Schema.Types.ObjectId,
-                          ref: 'User' // Assuming 'User' is the name of your user model
-                      },
-                      // "modifiedBy" field
-                      modifiedBy: {
-                          type: Schema.Types.ObjectId,
-                          ref: 'User'
-                      }
-                  });
+            const mongoose = require('mongoose');
+            const Schema = mongoose.Schema;
+            
+            const yourSchema = new Schema({
+            // Other fields in your schema
+            field1: String,
+            field2: Number,
+            // "createdBy" field
+            createdBy: {
+            type: Schema.Types.ObjectId,
+            ref: 'User' // Assuming 'User' is the name of your user model
+            },
+            // "modifiedBy" field
+            modifiedBy: {
+            type: Schema.Types.ObjectId,
+            ref: 'User'
+            }
+            });
 
 ## Acknowledgements
 
