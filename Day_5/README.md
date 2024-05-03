@@ -101,3 +101,5 @@ To create a schema using Mongoose in your Node.js application, follow these step
 - [Mongoose Documentation](https://mongoosejs.com/docs/index.html)
 - [MongoDB University](https://university.mongodb.com/)
 - [Stack Overflow](https://stackoverflow.com/) community for valuable insights and solutions.
+
+Here is the link for code: https://github.com/akhileshpandey2511/mongoose-models
