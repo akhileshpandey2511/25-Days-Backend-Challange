@@ -1,4 +1,4 @@
-## Day_6:Ecommerce and Hospital management Data modelling
+## Day_6: Ecommerce and Hospital management Data modelling
 
 ### Overview
 This repository contains the data modeling for both E-commerce and Hospital Management systems.
@@ -34,6 +34,8 @@ This repository contains the data modeling for both E-commerce and Hospital Mana
 2. Attributes:
   - Patient: ID, admittedIn, gender, bloodGroup, age, adress, diagnosedWith, name.
   - Doctor: ID, Name, worksInHospital, experienceinnumber, salary, qualification.
+
+  https://github.com/akhileshpandey2511/mongoose-model
   - Hospital: ID, name, adressLine1, adressLine2, city, pincode, specilizationIn.
   - Medical Records: ID, patientname, diagnosedWith, status, tharapy.
 3. Relationships:
