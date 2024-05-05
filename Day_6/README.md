@@ -34,11 +34,11 @@ This repository contains the data modeling for both E-commerce and Hospital Mana
 2. Attributes:
   - Patient: ID, admittedIn, gender, bloodGroup, age, adress, diagnosedWith, name.
   - Doctor: ID, Name, worksInHospital, experienceinnumber, salary, qualification.
-
-  https://github.com/akhileshpandey2511/mongoose-model
   - Hospital: ID, name, adressLine1, adressLine2, city, pincode, specilizationIn.
   - Medical Records: ID, patientname, diagnosedWith, status, tharapy.
 3. Relationships:
   - Patient and Doctor: One-to-Many relationship.
   - Doctor and Hospital: One-to-Many relationship.
   - Medical records and Patient: One-to-Many relationship.
+
+🔗 https://github.com/akhileshpandey2511/mongoose-model
