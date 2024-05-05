@@ -4,11 +4,11 @@ Welcome to the Backend in JavaScript in 25-Day Challenge! This challenge is desi
 ## Roadmap
 Here is an overview of the 25-day roadmap:
 1. [Day_1: Javascript Backend Roadmap](https://github.com/akhileshpandey2511/25-Days-Backend-Challange/tree/main/Day_1)
-2. [Day_2: How to deploye Backend Code in Production]
-3. [Day_3: Connect FrontEnd and Backend in Javascript]
-4. [Day_4: Taking Backend to next level]
-5. [Day_5: Data Modelling for Backend with Mongoose]
-6. [Day_6: Ecommerce and Hospital management Data modelling]
+2. [Day_2: How to deploye Backend Code in Production](https://github.com/akhileshpandey2511/25-Days-Backend-Challange/tree/main/Day_2)
+3. [Day_3: Connect FrontEnd and Backend in Javascript](https://github.com/akhileshpandey2511/25-Days-Backend-Challange/tree/main/Day_3)
+4. [Day_4: Taking Backend to next level](https://github.com/akhileshpandey2511/25-Days-Backend-Challange/tree/main/Day_4)
+5. [Day_5: Data Modelling for Backend with Mongoose](https://github.com/akhileshpandey2511/25-Days-Backend-Challange/tree/main/Day_5)
+6. [Day_6: Ecommerce and Hospital management Data modelling](https://github.com/akhileshpandey2511/25-Days-Backend-Challange/tree/main/Day_6)
 7. [Day_7: How to setup a professional backend project]
 8. [Day_8: How to connect database in MERN with debugging]
 9. [Day_9: Custom api response and error handling]
